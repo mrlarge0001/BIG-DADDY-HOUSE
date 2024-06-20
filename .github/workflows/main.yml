@@ -1,0 +1,13 @@
+<key>CFBundleURLTypes</key>
+<array>
+  <dict>
+  <key>CFBundleURLSchemes</key>
+  <array>
+    <string>fb752649276945472</string>
+  </array>
+  </dict>
+</array>
+<key>FacebookAppID</key>
+<string>752649276945472</string>
+<key>FacebookDisplayName</key>
+<string>BIG DADDY HOUSE</string>
