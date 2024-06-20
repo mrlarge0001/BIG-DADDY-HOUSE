@@ -3,11 +3,14 @@
   <dict>
   <key>CFBundleURLSchemes</key>
   <array>
-    <string>fb752649276945472</string>
-  </array>
+    <string>fbAPP-ID</string>
+  </array>752649276945472
   </dict>
 </array>
-<key>FacebookAppID</key>
-<string>752649276945472</string>
-<key>FacebookDisplayName</key>
-<string>BIG DADDY HOUSE</string>
+<key>FacebookAppID</key>752649276945472
+<string>APP-ID</string>
+<key>FacebookClientToken</key>1160837581808769
+<string>CLIENT-TOKEN</string> 
+bc673c10fd5b0f02215c80a034326a23
+<key>FacebookDisplayName</key>BIG DADDY HOUSE
+<string>APP-NAME</string>BIG DADDY HOUSE
